@@ -1,2 +1,2 @@
 # Host-Growsoft-Asia
-All My Growsoft Script is Here
+This is Growtopia Private server Host, Growsoft Asia
